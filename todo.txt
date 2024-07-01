@@ -1,0 +1,8 @@
+- Create User Auth and Register:
+  - [Register]: First name, Last name, Email, Username, Password, Password Verification
+  - [Login]: Username or Email, Password
+  - [Remember me]: Remember frecuent IP address
+  - [Check on new IP]: Check with email code where a new IP is registered
+  - [Limit Login]: Limit login when is been trying more than 5 times
+  - [Captcha]: Create custom captcha images using AI to verify user is not a bot
+
